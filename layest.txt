@@ -1,0 +1,167 @@
+Chandrashekhar Pant - tomorrow any time
+Vinod Damani - he will call us soon
+Bidkar krishna Pramod - conduct on sunday
+Sagar Muneshwar - need more time for preparation
+Aman Alia - sheduced on next week
+Mahammad Sahid - need some more time for preparation
+Tina Nitin Patil - next week, on Weekends
+
+------------------------------------------------------------------------- 
+
+Reminders to students & feedback form update
+5) Mock --- Jayesh (4 - 6) [chandrashekar 04:00 PM & Bidkar 05:00 PM] {husabana.shaikh@eduonix.com > account}
+
+Completed 
+
+3) DEv --- Morning (10 - 12) DS 1 & 2  --- [no need]
+4) Nishant -- Morning (10 - 12) [feedback form updated]
+8) Nikunj --- (10 - 12) [feedback form updated]
+9) DS 4 - huzefa no session
+1) https://docs.google.com/document/d/1XbWqSWVIXfN0tRTjzVnFKWktDRCAhQoNHOmqs6gxB7E/edit  ---  Pankaj sunday (capstone project)
+7) live process sheet 
+6) FSD 17 - Abhishek garg (7 - 10)
+2) FSD 15 --- Anik Acharjee
+
+
+
+Hi 
+
+Unfortunately, due to heavy rain on the instructor's side, today's session has been canceled. The safety of our instructor is of utmost importance.
+
+The same session has been rescheduled for tomorrow at the same time. Please make a note of the new date and time, and we apologize for any inconvenience this may cause.
+
+Thank you for your understanding, and we look forward to seeing you tomorrow.
+
+Best regards,
+
+
+echo "# tazeen-directory" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anish-source2424/tazeen-directory.git
+git push -u origin main
+
+CB44-2BAEgit initg
+
+-------------------------------------------------------------------------
+
+Assignment 
+
+FSD 14 (latha) - 17th Sep
+FSD 16 (nikunj) - 16th Sep
+FSD 17 (abhi garg) - 17th sep
+DS 5 & 6 (Nishant) - 17th Sep
+DS 7 (latha) - 17th sep
+DS 9 (sankalp) - 16th Sep
+DS 10 (daniel) - - 17th sep
+FSD (joytimor) - 17th Sep
+
+Resource file :
+
+FSD 15 (Anik) - 
+DS 8 - 
+DS 3 -
+FSD 12 - No file only explain Capstone project 
+
+-------------------------------------------------------------------------
+22/09/2023 
+
+Sakshi FSD 16 - project
+
+Saturday :
+
+FSD 
+
+FSD 19 : saturday - 10 AM - 12 PM -- Jyotirmay
+FSD 12 : No lecture (batch has been end)
+FSD 13 : saturday - 07:30 PM - 09:30 PM -- Akash
+FSD 14 : saturday - 07:30 PM - 09:30 PM -- Sonam 
+FSD 15 : saturday - 07:30 PM - 09:30 PM -- Mayank 
+FSD 16 : saturday - 07:30 PM - 09:30 PM -- Nikunj Soni
+FSD 17 : saturday - 07:30 PM - 09:30 PM -- Abhishek Garg
+FSD 18 : No lectures (ganpati visarjan)
+FSD 11 : saturdaty - 08 PM - 10 PM -- Abhishek choudhary
+
+
+DS 
+
+DS 1,2,3 - Saturday (Capstone Project Session) - 07:30 PM - 09:30 Pm --Ankit
+DS 4 - No session
+DS 5,6 - saturday - 07:30 PM - 09:30 PM -- Nishant 
+DS 7 - saturday - 07:30 PM - 09:30 PM -- Latha 
+DS 9 - saturday - 07:30 PM - 09:30 PM -- Sankalp 
+DS 10 - saturday - 07:30 PM - 09:30 PM -- Daniel 
+DS 11 - saturday - 07:30 PM - 09:30 PM -- Chirantan 
+DS 8 - saturday - 08 PM - 10 PM -- Devdatta 
+--------------------------------------------------------------------------------------------
+Sunday :
+
+
+
+FSD 19 : Sunday- 10 AM - 12 PM -- Jyotirmay [done]
+DS 5,6 - Sunday- 10 AM - 12 PM -- Nishant  [done]
+
+Mock Interview :
+
+(Sunday) Tina Patil  - 03:00 PM -- Jayesh (Meeting link : https://us02web.zoom.us/j/6619578976 >> Meeting Id: 6619578976 >> oom Id : arjun.pillai@eduonix.com)  [done]
+
+DS 11 - Sunday- 07:00 PM - 10:00 PM -- Chirantan  [ hosted ]
+
+FSD 
+
+FSD 12 : No lecture (batch has been end)
+FSD 13 : Sunday- 07:30 PM - 09:30 PM -- Akash  -- (NO session)
+FSD 14 : Sunday- 07:30 PM - 09:30 PM -- Sonam 
+FSD 15 : Sunday- 07:30 PM - 09:30 PM -- Mayank 
+FSD 16 : Sunday- 07:30 PM - 09:30 PM -- Nikunj Soni
+FSD 17 : Sunday- 07:30 PM - 09:30 PM -- Abhishek Garg
+FSD 18 : Sunday - 07:30 PM - 09:30 PM -- Jyotirmay (including FSD 19 students)
+FSD 11 : Sunday (Capstone Project) - 08 PM - 10 PM -- Abhishek choudhary
+
+
+DS
+
+DS 1,2,3 - Sunday (Capstone Project Session) - 07:30 PM  - 09:30 PM  -- Ankit
+DS 4 - Sunday - 07:30 PM  - 09:30 PM  -- Huzefa
+DS 7 - Sunday- 07:30 PM - 09:30 PM -- Latha  
+DS 9 - Sunday- 07:30 PM - 09:30 PM -- Sankalp 
+DS 10 - Sunday- 07:30 PM - 09:30 PM -- Daniel  --- new link
+DS 8 - Sunday- 08 PM - 10 PM -- Umang
+
+--------------------------------------------------------------------------------------------
+
+On Monday & Tuesday 
+DS 4 -- Huzefa -- 07:30 PM - 09:30 PM
+
+--------------------------------------------------------------------------------------------
+
+The session has been hosted. Kindly join.
+
+kindly join at the earliest.
+
+Hope you all have joined the session respectfully.
+
+--------------------------------------------------------------------------------------------
+
+DS Capstne project : https://drive.google.com/drive/folders/1hwDpi6W60EnsbcANOgjyi-AJHuwsSex-
+
+FSD Capstone project : https://docs.google.com/document/d/1XbWqSWVIXfN0tRTjzVnFKWktDRCAhQoNHOmqs6gxB7E/edit
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
